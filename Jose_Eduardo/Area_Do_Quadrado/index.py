@@ -1,0 +1,5 @@
+#ALGORITMO PARA CALCULAR A AREA DE UM QUADRADO
+
+Lado=float(input("DIGITE A MEDIDA DO LADO DO QUADRADO: "))
+Area_Do_Quadrado=Lado**2
+print("A AREA DO QUADRADO É IGUAL A: ",Area_Do_Quadrado)
